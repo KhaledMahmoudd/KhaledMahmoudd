@@ -19,13 +19,13 @@
 - 📫 How to reach me **khhaledd.77@gmail.com**
 
 <h3 align="left">✨ Certificates:</h3>
-<p align="left">
+
 - AWS Certified Cloud Practitioner  
 - Oracle Cloud Infrastructure  
 - Huawei Certified Cloud Developer Associate  
 - NTI Linux Administration  
 - NTI CCNA  
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
