@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif)
 <h1 align="center">Hi 👋, I'm Khaled Mahmoud</h1>
-<h3 align="center">Cloud Architecture @ ITI 9-Months program (Smart village) | DevOps Engineer</h3>
+<h3 align="center">DevOps Engineer | Cloud Architecture @ ITI 9-Months program</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled1771&label=Profile%20views&color=0e75b6&style=flat" alt="khaled1771" /> </p>
 
