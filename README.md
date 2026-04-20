@@ -20,10 +20,25 @@
 
 <h3 align="left">✨ Certificates:</h3>
 
-- AWS Certified Solutions Architect  
-- AWS Certified Cloud Practitioner  
-- Oracle Cloud Infrastructure  
-- Huawei Certified Cloud Developer Associate  
+<p align="left">
+
+<a href="https://aws.amazon.com/certification/">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<a href="https://aws.amazon.com/certification/">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<a href="https://www.oracle.com/cloud/">
+  <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</a>
+
+<a href="https://e.huawei.com/en/talent/">
+  <img src="https://img.shields.io/badge/Huawei-Cloud%20Developer%20Associate-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/>
+</a>
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -32,7 +47,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[https://facebook.com/khaled.mahmoud](https://www.facebook.com/khaled.mahmoud.569717)" target="_blank">
+<a href="https://www.facebook.com/khaled.mahmoud.569717" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
