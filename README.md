@@ -20,12 +20,10 @@
 
 <h3 align="left">✨ Certificates:</h3>
 
+- AWS Certified Solutions Architect  
 - AWS Certified Cloud Practitioner  
 - Oracle Cloud Infrastructure  
 - Huawei Certified Cloud Developer Associate  
-- NTI Linux Administration  
-- NTI CCNA  
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
